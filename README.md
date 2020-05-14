@@ -1,2 +1,4 @@
-# R-from-scratch
-A complete tutorial to learn data science in R from scratch.
+# R from Scratch
+
+Let's go from zero to hero in R!
+
