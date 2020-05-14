@@ -2,7 +2,7 @@
 
 Let's go from zero to hero in R!
 
-Table of Contents
+**Table of Contents:**
 1. Basics of R Programming for Data Science
   - Why learn R ?
   - How to install R / R Studio ?
